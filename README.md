@@ -1,2 +1,2 @@
 # orig4mi.github.io
-Python/Web Developer
+Professor of Computer Science

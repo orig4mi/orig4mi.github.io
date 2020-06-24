@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+make paper.pdf
+if [[ $? -ne 0 ]]; then
+    echo "pre-commit hook failed"
+    exit 1
+fi
+exit 0
